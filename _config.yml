@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /test-of-the-day
+exclude: ["README.md"]
